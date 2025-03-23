@@ -1,7 +1,3 @@
-// Import cat data from external file
-
-import { catsData } from '/data.js'
-
 // Get DOM elements
 
 const emotionRadios = document.getElementById('emotion-radios')
