@@ -9,4 +9,4 @@ There is also a checkbox filter, click it and only show gifs for a selected mood
 Cone repository
 
 ```
-git clone 
+git clone https://github.com/pranujm/purrfect-mood.git
