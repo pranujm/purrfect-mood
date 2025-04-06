@@ -5,3 +5,8 @@ The user is given a list of moods to select from. After selecting a mood and hit
 There is also a checkbox filter, click it and only show gifs for a selected mood. Otherwise, the generate meme can show both gifs or static memes.
 
 ## Installation
+
+Cone repository
+
+```
+git clone 
