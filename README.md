@@ -2,9 +2,9 @@
 
 Purrfect Mood is a mood-based cat meme picker, built with JavaScript, HTML, & CSS.
 
-User is given a list of moods to select from. After selecting a mood and hitting the generate meme button, the meme will pop up.
+After selecting a mood and hitting the generate meme button, the meme will pop up.
 
-Checkbox filter, click it and only show gifs for a selected mood. Otherwise, the generate meme can show both gifs or static memes.
+Checkbox filter only show gifs for a selected mood if clicked. 
 
 ## Installation
 
